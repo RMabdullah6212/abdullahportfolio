@@ -857,7 +857,7 @@ form textarea {
 
 
 .contact-form form .send {
-    cursor: pointer;
+    
     margin-left: 10px;
     align-self: center;
     width: 100%;
@@ -878,6 +878,7 @@ form textarea {
 
 .contact-form form .send:hover {
     box-shadow: 0 0 50px #0ef;
+    cursor: pointer;
 
 }
 
